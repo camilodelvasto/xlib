@@ -102,7 +102,7 @@
 <style scoped lang="scss">
 .icon-wrapper {
   border: 2px solid $color-emphasis;
-  opacity: 0.49;
+  opacity: 0.59;
 }
 </style>
 <script>
