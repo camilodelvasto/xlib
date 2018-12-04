@@ -100,8 +100,10 @@
 </template>
 
 <style scoped lang="scss">
+.icon-wrapper {
+  border: 2px solid red;
+}
 </style>
-
 <script>
 export default {
   name: "iconsx",
