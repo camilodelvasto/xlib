@@ -101,7 +101,7 @@
 
 <style scoped lang="scss">
 .icon-wrapper {
-  border: 2px solid $color-emphasis-alt;
+  border: 2px solid $color-emphasis;
   opacity: 0.9;
 }
 </style>
